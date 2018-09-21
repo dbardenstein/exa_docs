@@ -9,7 +9,10 @@ Welcome to exa-docs's documentation!
 .. toctree::
    :maxdepth: 3
 
+   :caption: User Docs
    intro
+
+   :caption: Testing
    
 
 
