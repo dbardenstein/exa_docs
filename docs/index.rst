@@ -10,6 +10,8 @@ Welcome to exa-docs's documentation!
    :maxdepth: 3
    :caption: Contents:
 
+   source/intro
+   source/other_page
 
 
 Indices and tables
