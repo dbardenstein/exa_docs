@@ -8,10 +8,9 @@ Welcome to exa-docs's documentation!
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
 
-   source/intro
-   source/other_page
+   intro
+   
 
 
 Indices and tables
